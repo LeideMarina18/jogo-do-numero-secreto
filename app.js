@@ -1,5 +1,3 @@
-//testing first commit git
-
 let listaDeNumerosSorteados = []
 let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
